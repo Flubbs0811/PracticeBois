@@ -6,7 +6,7 @@ public class Calculator {
         System.out.println("Hi, welcome to the Java 18 Function Calculator!");
         Thread.sleep(2000);
         System.out.println("");
-        System.out.println("-1 - End Program");
+        System.out.println("-1 - End Program I am amazing");
         System.out.println("0 - Display Function Options");
         System.out.println("1 - Addition with Two Numbers");
         System.out.println("2 - Addition with X Numbers");
