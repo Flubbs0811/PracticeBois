@@ -3,8 +3,8 @@ import java.util.Random;
 
 class Main {
   public static void main(String[] args) {
-    int minimum = 10;
-    int maximum = 100;
+    int minimum = 1;
+    int maximum = 10;
     int attempts = 10;
     Scanner myObj = new Scanner(System.in); 
     Random rand = new Random(); 
