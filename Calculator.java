@@ -214,7 +214,7 @@ public class Calculator {
                 }
                 System.out.println("");
             } else {
-                System.out.println("Sorry, that is not an option. Please try again. THIS IS AN EDIT!@#$%^&*()_)(*&^%$#@#$%^&*(");
+                System.out.println("Sorry, that is not an option. Please try again.");
             }
             Thread.sleep(2000);
         }
